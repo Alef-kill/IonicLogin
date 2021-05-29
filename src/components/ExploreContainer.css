@@ -22,3 +22,10 @@
 .container a {
   text-decoration: none;
 }
+
+.input {
+  --border-style: solid;
+}
+.input2 {
+  --background: 'transparent'
+}
